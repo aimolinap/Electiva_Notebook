@@ -27,7 +27,7 @@ jobs:
       - name: Build site
         run: myst build --html
         env:
-        BASE_URL: /Electiva_Notebook
+          BASE_URL: /Electiva_Notebook
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _build/html
