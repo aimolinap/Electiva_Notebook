@@ -4,7 +4,7 @@ project:
   title: Mi Electiva
   description: Descripción del proyecto
   authors:
-    - name: Andrea Molina
+    - name: Carlos Ospino
   github: https://github.com/aimolinap/Electiva_Notebook
 
 site:
